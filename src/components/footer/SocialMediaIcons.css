@@ -1,0 +1,14 @@
+ .social-container{
+    display: flex;
+    justify-content:start ;
+    gap: 8px;
+    font-size: 20px;
+    
+    
+}
+ .social{
+        color:   #213360;
+ }
+ .social:hover{
+    color: #ffc107;
+ }

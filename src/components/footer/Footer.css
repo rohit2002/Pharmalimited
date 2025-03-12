@@ -1,0 +1,49 @@
+.logo-img{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    top: -68px;
+    left: 20px;
+
+    
+}
+.footer-content{
+    height: 350px;
+    width: 100%;
+    display: flex;
+     gap: 310px;
+     align-items: center;
+    background-color:  #213360;;
+}
+.quick-link{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: -8px;
+    font-weight: 450;
+}
+.list-item{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+    top: -25px;
+}
+.list{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 5px;
+    font-weight: 300;
+     
+}
+.list2:hover{
+    color: #ffc107;
+    cursor: pointer;
+}
+.Quick-contact{
+    position: relative;
+    top: -20px;
+
+}

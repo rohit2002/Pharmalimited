@@ -1,0 +1,88 @@
+.contact-container{
+    height: 270px;
+    width: 310px;
+    
+  
+}
+.contact-wrapper{
+    height: 300px;
+    width: 320px;
+     padding-top: 20px;
+     margin-left: 20px;
+     background-color: white;
+     border-radius: 10px;
+     margin-left: 10px;
+    
+}
+.quick-heading{
+    font-weight: 650;
+    font-size: 20px;
+    color: #0E204D;
+    font-family: sans-serif;
+     margin: 0px;
+     position: relative;
+     left: 20px;
+}
+.contact-para1{
+    font-size: 16px;
+    color: #848E9F;
+    position: relative;
+    left: 20px;
+}
+.phone-icon{
+    height: 22px;
+    width: 22px;
+    
+
+}
+.phone-icon:hover{
+  color: #ffc107;
+
+}
+.anchor-cont{
+    text-decoration: none;
+}
+.anchor-cont:hover{
+    color: #ffc107;
+}
+
+.contact-number{
+
+ font-size: 22px;
+ color: #3851A2;
+ font-weight: 650;
+ position: relative;
+ left: 20px;
+ top: 5px;
+
+}
+ 
+.contact-para2{
+    font-size: 16px;
+    color: #848E9F;
+    position: relative;
+    top: 12px;
+    left: 20px;
+
+}
+.contact-direction{
+        color: #3851A2;
+        font-size: 18px;
+        font-weight: 600;
+        position: relative;
+        top: 50px;
+        left: 20px;
+ }
+ .contact-direction:hover{
+    color: #ffc107;;
+ }
+ .direction-contact{
+    display: flex;
+    
+    gap: 40px;
+ }
+ .social-icon1{
+    position: relative;
+    top: 50px;
+    left: 25px;
+ }

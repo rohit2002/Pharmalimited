@@ -1,0 +1,42 @@
+.nav-img{
+    width: 100vw;
+    height: 130px;
+     
+    }
+    .company-container{
+        position: relative;
+        display: inline;
+    }
+    .Cheading{
+         position: absolute;
+         top: -93px;
+         left: 50%;  
+          transform: translate(-50%,-50%);
+          color: #ffffff;
+          font-size: 40px;
+          font-weight: 500;
+            
+         
+    }
+    .company-hero{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .pharma-img{
+        width: 90%;
+        
+        
+
+    }
+    .Cimg{
+        width: 100%;
+        height: 400px;
+        margin-top: -5px;
+        
+        
+    }
+    .company-para{
+        font-size: 20px;
+        font-weight: 300;
+    }

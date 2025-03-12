@@ -1,0 +1,27 @@
+.para-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     
+}
+.headingcareer{
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 30px;
+    margin-top: 25px;
+
+}
+.step
+{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 50px;
+    position: relative;
+    bottom: 60px;
+    
+}
+.para2{
+    margin-left: 30px;
+    position: relative;
+    bottom: 30px;
+}
